@@ -11,9 +11,17 @@
     "url": "git+https://github.com/danialnoaein/Lino.git"
   },
   "keywords": [
-    "css"
+    "css",
+    "sass",
+    "flexbox",
+    "responsive",
+    "framework"
   ],
-  "author": "Danial Noaein",
+  "author": {
+    "name": "Danial Noaein",
+    "email": "sdnoaein@gmail.com",
+    "url": "https://appafarini.com"
+  },
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/danialnoaein/Lino/issues"
