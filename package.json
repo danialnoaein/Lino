@@ -1,0 +1,22 @@
+{
+  "name": "lino",
+  "version": "0.0.1",
+  "description": "A mobile first css framework based on Bulma",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/danialnoaein/Lino.git"
+  },
+  "keywords": [
+    "css"
+  ],
+  "author": "Danial Noaein",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/danialnoaein/Lino/issues"
+  },
+  "homepage": "https://github.com/danialnoaein/Lino#readme"
+}
